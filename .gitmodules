@@ -1,12 +1,12 @@
 [submodule "Bias_and_Reliability"]
 	path = Bias_and_Reliability
-	url = https://github.com/EducationShinyAppTeam/Bias_and_Reliability
+	url = ../Bias_and_Reliability
 [submodule "Variable_Types_Matching_Game"]
 	path = Variable_Types_Matching_Game
-	url = https://github.com/EducationShinyAppTeam/Variable_Types_Matching_Game
+	url = ../Variable_Types_Matching_Game
 [submodule "Survey_Bias"]
 	path = Survey_Bias
-	url = https://github.com/EducationShinyAppTeam/Survey_Bias
+	url = ../Survey_Bias
 [submodule "Mouse_Experiment_on_Random_Assignment"]
 	path = Mouse_Experiment_on_Random_Assignment
-	url = https://github.com/EducationShinyAppTeam/Mouse_Experiment_on_Random_Assignment
+	url = ../Mouse_Experiment_on_Random_Assignment
