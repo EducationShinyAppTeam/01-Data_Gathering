@@ -5,7 +5,7 @@
 - [Variable Types Matching Game](https://github.com/EducationShinyAppTeam/Variable_Types_Matching_Game)
 
 ### Downloading
-This book is separated by chapter into [submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules). Download this chapter by running the command:
+This book is separated by chapter into [submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules); download this chapter by running the command:
 ```bash
 git clone --recurse-submodules https://github.com/EducationShinyAppTeam/01-Data_Gathering
 ```
